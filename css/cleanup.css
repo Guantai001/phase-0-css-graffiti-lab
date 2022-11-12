@@ -1,1 +1,23 @@
 /* write your override styles here */
+
+#wall .tag-1{
+    display: none;
+}
+
+#wall .parent{
+    display: none;
+
+}
+
+div#tag-2{
+ height: 0;
+}
+
+div#wall #tag-3.slick {
+ display: none;
+    position:unset;
+    top: 0;
+    left: 0;
+    width: 0;
+  
+}
